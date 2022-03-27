@@ -6,7 +6,7 @@ The purpose of the project is to provide aid to PlanMyTrip to use the data to re
 
 In the project some modules will be used as:
 - NumPy module will help to generate latitudes and longitudes.
-- citypy to list the coordenates.
+- To list the coordenates citypy.
 - OpenWeatherMap API to collect current weather data.
 
 At the start of the project it would be neccesary the creation of several scatter plots, in order to determine correlation between the data collected
@@ -55,7 +55,7 @@ A marker layer map with pop-up markers for the cities in the vacation DataFrame 
 - Current weather description with the maximum temperature
 
 
-##Deliverable 3: Create a Travel Itinerary Map
+## Deliverable 3: Create a Travel Itinerary Map
 
 Use the Google Directions API to create a travel itinerary that shows the route between four cities chosen from the customer’s possible travel destinations. Then, create a marker layer map with a pop-up marker for each city on the itinerary.
 
